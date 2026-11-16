@@ -1,0 +1,11 @@
+
+NAR4TSP/
+TSP_Transformer/
+attention-learn-to-route/
+graph-convnet-tsp/
+tspFormer/
+
+# Python/Colab temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
